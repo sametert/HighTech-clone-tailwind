@@ -5,7 +5,7 @@ module.exports = {
     container : {
       center: true
     },
-
+   
     extend: {
       backgroundImage : {
         "banner": "url('/src/images/banner.jpg')",
